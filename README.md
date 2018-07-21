@@ -1,6 +1,6 @@
 # Analysis-of-Mobile-Food-in-SF
 
-This project's purpose is to analyze the the mobile food data in San Francisco in order to create visualizations and gain insights. We did this project because we are all foodies who are passionate to find local authentic street food. 
+This project's purpose is to analyze the the mobile food data in San Francisco in order to create visualizations and gain insights. We did this project because we are all foodies who are passionate to explore local authentic street food. 
 
 Below are the datasets that we found on data.sfgov.org :
 
