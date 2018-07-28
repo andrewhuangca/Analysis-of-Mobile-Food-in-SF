@@ -1,7 +1,7 @@
 # Analysis-of-Mobile-Food-in-SF
 
 ## Summary
-We chose to do this project because we are all foodies who are passionate to explore local authentic street food. We found the interesting datasets about mobile foods in San Francisco on data.sf.org. The important fields that we used are the columns about mobile food vendors and descriptions, the time of operations, and the locations. We mainly used Matplot and Seaborn to create visualizations about the mobile food in San Francisco in order gain insights.
+We chose to do this project because we are all foodies who are passionate to explore local authentic street food. We found the interesting datasets about mobile foods in San Francisco on data.sf.org. The important fields that we used are the columns about mobile food vendors and descriptions, the time of operations, and the locations. We mainly used Pandas and Numpy to do analysis, and Matplotlib and Seaborn to create visualizations about the mobile food in San Francisco in order gain insights.
 
 ## Key Visualizations
 Below are three key visualizations that can give us an overall picture of the three important aspects about mobile foods in San Francisco: what, when and where. 
