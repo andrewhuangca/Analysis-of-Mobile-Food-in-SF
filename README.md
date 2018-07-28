@@ -1,7 +1,14 @@
 # Analysis-of-Mobile-Food-in-SF
 
+
 This project's purpose is to analyze the the mobile food data in San Francisco in order to create visualizations and gain insights. We did this project because we are all foodies who are passionate to explore local authentic street food. 
 
+## Key Visualizations
+
+![](Visualization%20Images/MobileFoodWordCloud.png)
+
+
+## Datasets
 Below are the datasets that we found on data.sfgov.org :
 
 Dataset 1: Mobile Food Schedule
