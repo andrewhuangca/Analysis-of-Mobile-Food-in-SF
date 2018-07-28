@@ -23,6 +23,8 @@ The above heatmap shows that much more mobile foods are available during week da
 
 From the initial view of the mobile food business locationson in San Francisco map for both trucks and push carts, we can see there are only few points on the west side. Most of the points are concentrated on the east and middle side, especially the northeast corner, and these areas are San Francisco's commercial areas with the most companies and business. This further shows that the mobile foods target to serve the working professionals. 
 
+The food truck business locations are the orange dots on the map. Most food trucks are concentrated on the east and middle side, and only few food trucks are operating on the west side. The push carts business locations are the blue dots on the map, most push carts are located along Market Street, which is the main business street in San Francisco.
+ 
 
 ## Datasets
 Below are the datasets that we found on data.sfgov.org :
