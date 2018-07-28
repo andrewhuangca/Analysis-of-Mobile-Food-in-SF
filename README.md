@@ -4,8 +4,17 @@
 This project's purpose is to analyze the the mobile food data in San Francisco in order to create visualizations and gain insights. We did this project because we are all foodies who are passionate to explore local authentic street food. 
 
 ## Key Visualizations
+Below are three key visualizations that can give us an overall picture of the three important aspects about mobile foods in San Francisco: what, when and where. 
 
+What are the most popular mobile food items that are offered by mobile food vendors in San Francisco?
 ![](Visualization%20Images/MobileFoodWordCloud.png)
+
+How mobile foods are available during certain times and days of the week?
+![](Visualization%20Images/MobileFoodHeatmap.png)
+
+Where in San Francisco are the mobile foods located?
+
+
 
 
 ## Datasets
