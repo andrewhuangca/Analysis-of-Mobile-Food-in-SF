@@ -19,7 +19,7 @@ The above heatmap shows that much more mobile foods are available during week da
 
 
 3. Where in San Francisco are the mobile foods located?
-![](Visualization%20Images/MobileFoodLocationsbyFacilityType.png)
+![](Visualization%20Images/MobileFoodLocationsbyFacilityType.png width="100")
 
 From the initial view of the mobile food business locationson in San Francisco map for both trucks and push carts, we can see there are only few points on the west side. Most of the points are concentrated on the east and middle side, especially the northeast corner, and these areas are San Francisco's commercial areas with the most companies and business. This further shows that the mobile foods target to serve the working professionals. 
 
