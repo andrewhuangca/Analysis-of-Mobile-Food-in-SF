@@ -46,4 +46,4 @@ Dataset 3: Mobile Food Summary
 Since all of the same attributes for the above two datasets are duplicate, we have to merge these two datasets.
 
 ## Python Jupyter Notebook in nbviewer
-https://nbviewer.jupyter.org/github/andrewhuangca/Analysis-of-Mobile-Food-in-SF/blob/master/Jupyter%20Notebook/Mobile%20Food%20in%20SF_Data%20Visualization-Final-0728_v1.ipynb
+https://nbviewer.jupyter.org/github/andrewhuangca/Analysis-of-Mobile-Food-in-SF/blob/master/Jupyter%20Notebook/Mobile%20Food%20in%20SF_Data%20Visualization-Final-0729.ipynb
